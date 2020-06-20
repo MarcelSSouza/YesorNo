@@ -1,0 +1,53 @@
+@font-face{
+    font-family: "Blenda";
+    src: url("Script.otf")
+  }
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #4ecdc4;
+    
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.h1{
+    font-family: "Blenda";
+    color: #FFF;
+    font-size: 10em;
+}
+
+.h2{
+    font-family: "Blenda";
+    margin-top: 3%;
+    color: #FFF;
+}
+
+.btn{
+    margin-top: 1%;
+}
+
+
+.answer{
+    font-family: "Blenda";
+    margin-top: 2%;
+    font-size: 5em;
+    color: #FFF;
+}
+
+footer{
+text-align: center;
+margin-top: 5%;
+color: #FFF;
+}
+
+
